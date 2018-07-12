@@ -1,5 +1,5 @@
 <p align="center">
-  Python PNG Zipper
+  <h1> Python PNG Zipper <h1>
 </p>
 
 <hr>
